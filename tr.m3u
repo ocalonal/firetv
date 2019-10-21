@@ -1,1 +1,4 @@
 Öcal Önal.
+#EXTM3U
+#EXTINF:0,Channel 1
+http://epg.streamstv.me/epg/guide-austria.xml.gz
